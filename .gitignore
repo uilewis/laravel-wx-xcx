@@ -1,0 +1,7 @@
+/.idea
+/.git
+.DS_Store
+Homestead.json
+Homestead.yaml
+.env
+.phpunit.result.cache
